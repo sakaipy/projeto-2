@@ -1,0 +1,29 @@
+{
+    "firebaseConfig": {
+      "apiKey": "AIzaSyCgymXjpTXaioVg_Uz-gkQNUXEmCNOq_mw",
+      "authDomain": "aplicativotop-3f349.firebaseapp.com",
+      "databaseURL": "https://aplicativotop-3f349-default-rtdb.firebaseio.com",
+      "projectId": "aplicativotop-3f349",
+      "storageBucket": "aplicativotop-3f349.appspot.com",
+      "messagingSenderId": "224778300856",
+      "appId": "1:224778300856:web:7d1e76dff65f275f04b34d"
+    },
+    "firebaseConfig2": {
+      "apiKey": "AIzaSyCe-6y-BCRi7JL8wXIXRzBZJ9XV3P_7CCc",
+      "authDomain": "aplicativo-ab2b6.firebaseapp.com",
+      "databaseURL": "https://aplicativo-ab2b6-default-rtdb.firebaseio.com",
+      "projectId": "aplicativo-ab2b6",
+      "storageBucket": "aplicativo-ab2b6.appspot.com",
+      "messagingSenderId": "271167832522",
+      "appId": "1:271167832522:web:8be54d2f13c4cb8a6e8f33"
+    },
+    "googleCredentialsFile": "your-credentials.json",
+    "spreadsheetId": "1dOC4aNEUQnCCAFgg2VY2FXHwRmFoTwjlCd52fLQcZUc",
+    "spreadsheetId2": "1H5zKfIo63AjRJWDPI9t1dAiSw-D1PGsA1DVT4BFOH_Y",
+    "spreadsheetId3": "1BQJAqB5o77MAI7ndgQvmg1udBuqZ0C-TFwPXNCjN-iY",
+    "spreadsheetId4": "1ZtA9qhg-HfaCGBZwKJlJlNibKgo0HnOB5JMFJ3zPzxM",
+    "worksheetName": "teste",
+    "worksheetName2": "teste2",
+    "worksheetName3": "teste2",
+    "jsonKeyFile": "your-credentials.json"
+}
